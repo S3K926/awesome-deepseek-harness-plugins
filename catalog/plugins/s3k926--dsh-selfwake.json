@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "S3K926/dsh-selfwake",
+  "name": "dsh-selfwake",
+  "repository": "https://github.com/S3K926/dsh-selfwake",
+  "category": "tools",
+  "description": {
+    "en": "Proactively sends one short message into an active session after configurable idle intervals, gated by quiet hours, an unanswered-message cap and a daily limit; falls back to a system notification plus a log entry.",
+    "zh": "到点主动开口：按可配置间隔，过安静时段／未回话上限／每日上限等闸门后挑一句投进活跃会话；投不进就发系统通知并写日志。"
+  },
+  "added": "2026-10-17"
+}

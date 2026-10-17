@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "S3K926/dsh-memory-board",
+  "name": "dsh-memory-board",
+  "repository": "https://github.com/S3K926/dsh-memory-board",
+  "category": "tools",
+  "description": {
+    "en": "Settings-page panel for a file-based memory archive (diary / state / growth log / event stream): overview, search, append and careful edits, with fingerprint guards and pre-write backups.",
+    "zh": "把一份基于文件的记忆档案（日记／状态／生长记录／事件流）搬进设置页面板：概览、搜索、追加与谨慎编辑，读写都带指纹守卫与改前备份。"
+  },
+  "added": "2026-10-17"
+}
